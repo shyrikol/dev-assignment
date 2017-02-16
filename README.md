@@ -57,4 +57,4 @@ data, you should follow given form example:
     
 Screen of working programm:
 
-![alt tag](https://github.com/shyrikol/dev-assignment/tree/master/dev-assignment/src/main/resources/screen1.png "Sc1")
+![promisechains](https://github.com/shyrikol/dev-assignment/tree/master/dev-assignment/src/main/resources/screen1.png)
